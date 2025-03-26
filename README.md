@@ -1,5 +1,3 @@
-//CSS STYLING
-
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -46,8 +44,6 @@ footer {
     background-color: #f1f1f1;
     padding: 10px;
 }
-
-//HTML CONTENT
 
 <!DOCTYPE html>
 <html lang="en">
